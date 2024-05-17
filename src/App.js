@@ -36,7 +36,6 @@ import Contact from "./more/Contact";
 import MoreOption from "./component/user/MoreOption"
 import Dashboard from './component/Admin/Dashboard';
 import CreateProduct from './component/Admin/CreateProduct';
-import AllProducts from "./component/Admin"
 import AllProducts from "./component/Admin/AllProducts";
 import EditProduct from "./component/Admin/EditProduct";
 import AllOrder from "./component/Admin/AllOrder";
